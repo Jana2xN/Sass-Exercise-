@@ -1,6 +1,6 @@
 body {
   font: 100% "Space Mono", monospace;
-  color: #406c75;
+  color: #437790;
   margin: 0px;
   padding: 0px;
   background-color: #c8e8ab;
@@ -30,7 +30,7 @@ article section#selling-points {
   flex-basis: 100%;
 }
 article pre {
-  background: #a2c886;
+  background: #a5bf8c;
   border: 1px solid #ddd;
   color: #666;
   font-family: monospace;
@@ -55,7 +55,7 @@ article pre.after {
 h1,
 h2,
 h6 {
-  color: #2E4374;
+  color: #28586b;
 }
 
 h1 {
@@ -73,8 +73,8 @@ h6 {
   border: 1px solid #ccc;
   padding: 16px;
   margin: 16px;
-  color: #7C81AD;
-  background-color: #FFD0D0;
+  color: #437790;
+  background-color: #c8e8ab;
 }
 
 .success {
@@ -100,7 +100,7 @@ button {
   background-color: #c8e8ab;
   width: 8vw;
   height: 6vh;
-  color: #406c75;
+  color: #437790;
   border-radius: 1vw;
   border: 1px solid silver;
   text-transform: uppercase;
@@ -109,5 +109,5 @@ button {
 }
 
 button:hover {
-  background-color: #88d3e2;
-}/*# sourceMappingURL=style.css.map */
+  background-color: #9fd3e1;
+}/*# sourceMappingURL=blue.css.map */
